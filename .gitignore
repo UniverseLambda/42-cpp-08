@@ -1,0 +1,6 @@
+.vscode/
+
+ex0*/**
+!*.hpp
+!*.cpp
+!Makefile
